@@ -12,11 +12,8 @@ font-family: fantasy;
 img {
 max-width: 300px;
 max-height: 150px;
-float: right;
-}
-
-.jumbotron{
-  text-align: center;
+margin-right: auto;
+margin-right: auto;
 }
 
 body {
