@@ -15,3 +15,11 @@ float: right;
 .jumbotron{
   text-align: center;
 }
+
+body {
+  background-color: BlanchedAlmond;
+}
+
+ul {
+  text-align: center;
+}
