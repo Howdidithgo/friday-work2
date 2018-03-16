@@ -1,9 +1,12 @@
 h1 {
-  text-align: center;
+text-align: center;
+font-weight: bold;
+font-family: fantasy;
 }
 
 p{
 text-align: center;
+font-family: fantasy;
 }
 
 img {
