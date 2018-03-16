@@ -22,6 +22,11 @@ body {
 
 ul {
   text-align: center;
+  font-family: verdana;
+}
+
+ol {
+  font-family: verdana;
 }
 
 .container {
@@ -43,4 +48,15 @@ ul {
   max-height: 100px;
   margin-right: auto;
   margin-right: auto;
+}
+
+.road {
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+}
+
+.happy {
+  text-align: left;
 }
