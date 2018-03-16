@@ -14,6 +14,7 @@ max-width: 300px;
 max-height: 150px;
 margin-right: auto;
 margin-right: auto;
+border-radius:30px:
 }
 
 body {
@@ -41,6 +42,7 @@ ol {
   max-height: 100px;
   margin-right: auto;
   margin-right: auto;
+  border-radius:25px;
 }
 
 .history {
@@ -48,6 +50,7 @@ ol {
   max-height: 100px;
   margin-right: auto;
   margin-right: auto;
+  border-radius:25px;
 }
 
 .road {
@@ -55,10 +58,7 @@ ol {
   max-height: 100px;
   margin-right: auto;
   margin-right: auto;
-}
-
-.happy {
-  text-align: left;
+  border-radius:25px;
 }
 
 .happy {
@@ -66,4 +66,5 @@ ol {
   max-height: 100px;
   margin-right: auto;
   margin-right: auto;
+  border-radius:25px;
 }
